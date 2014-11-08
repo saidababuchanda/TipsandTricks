@@ -1,0 +1,6 @@
+Commandline Loops::
+
+for i in {1..2};do
+sshpass -p "" ssh hostname  "sudo chef-client"
+sshpass -p "" ssh hostname  "sudo chef-client"
+done
