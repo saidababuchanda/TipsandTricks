@@ -1,0 +1,5 @@
+Ports is used to install many packages.
+
+command is 
+
+ports install sshpass
